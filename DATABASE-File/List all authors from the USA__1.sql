@@ -1,1 +1,0 @@
-SELECT name FROM Authors WHERE country = 'USA';
