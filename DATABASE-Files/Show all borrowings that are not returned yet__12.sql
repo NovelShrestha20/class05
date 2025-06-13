@@ -1,1 +1,0 @@
-SELECT * FROM Borrowings WHERE return_date IS NULL;
