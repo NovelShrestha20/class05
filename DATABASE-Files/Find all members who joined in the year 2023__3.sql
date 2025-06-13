@@ -1,0 +1,1 @@
+SELECT * FROM Members WHERE EXTRACT(YEAR FROM membership_date) = 2023;

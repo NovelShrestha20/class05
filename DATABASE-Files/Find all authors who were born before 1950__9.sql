@@ -1,0 +1,1 @@
+SELECT name FROM Authors WHERE birth_year < 1950;
